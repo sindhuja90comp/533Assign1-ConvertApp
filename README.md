@@ -1,4 +1,23 @@
 
+# Unit Converter
+
+A simple and modern Flutter app to convert between Metric and Imperial units for distance and weight.
+
+---
+
+## Features
+
+- Convert between kilometers, miles, metres, centimeters, kilograms, pounds, and grams
+- Clean and modern UI with Material 3 design
+- Supports both Metric and Imperial units
+- Instant conversion and swap functionality
+- Input validation and helpful error messages
+
+---
+## Getting Started
+
+### Prerequisites
+
 # Flutter + VS Code + Emulator Setup (macOS)
 
 ## Steps
